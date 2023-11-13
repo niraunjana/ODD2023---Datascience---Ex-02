@@ -53,3 +53,52 @@ new2=df[(z<3)]
 #AFTER REMOVING OUTLIER using Zscore method
 sns.boxplot(y="price_per_sqft",data=new2)
 ```
+```
+height_weight.csv:
+```
+```
+import pandas as pd
+import seaborn as sns
+import numpy as np
+
+df=pd.read_csv("/content/heights.csv")
+df
+#BEFORE REMOVING OUTLIER in HEIGHT
+sns.boxplot(data=df)
+
+sns.scatterplot(data=df)
+
+max=df['height'].quantile(0.75)
+min=df['height'].quantile(0.25)
+
+max
+
+min
+
+iqr
+
+df=df[((df['height']>=min)&(df['height']<=max))]
+df
+
+iqr=max-min
+low=min-1.5*iqr
+high=max+1.5*iqr
+
+low
+
+high
+#AFTER REMOVING OUTLIER in HEIGHT
+sns.boxplot(data=df)
+
+sns.scatterplot(data=df)
+```
+### OUTPUT
+```
+bhp.csv:
+```
+![image](https://github.com/niraunjana/ODD2023---Datascience---Ex-02/assets/119395610/72c9a159-de91-428f-ad80-3a2521e1956f)
+![image](https://github.com/niraunjana/ODD2023---Datascience---Ex-02/assets/119395610/e62ab5d3-c439-4aad-ac00-c28f384aea5a)
+![image](https://github.com/niraunjana/ODD2023---Datascience---Ex-02/assets/119395610/268dc92d-96ed-41ed-8afa-9656208bfa0f)
+![image](https://github.com/niraunjana/ODD2023---Datascience---Ex-02/assets/119395610/c419f53b-2ac1-4ca6-bb52-e9e02266a66d)
+![image](https://github.com/niraunjana/ODD2023---Datascience---Ex-02/assets/119395610/4b8442ae-af1c-4bb1-970b-40939d1cbfc1)
+
