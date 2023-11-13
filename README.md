@@ -102,3 +102,10 @@ bhp.csv:
 ![image](https://github.com/niraunjana/ODD2023---Datascience---Ex-02/assets/119395610/c419f53b-2ac1-4ca6-bb52-e9e02266a66d)
 ![image](https://github.com/niraunjana/ODD2023---Datascience---Ex-02/assets/119395610/4b8442ae-af1c-4bb1-970b-40939d1cbfc1)
 
+```
+height_weight.csv:
+```
+![image](https://github.com/niraunjana/ODD2023---Datascience---Ex-02/assets/119395610/e86a821e-4fe0-4e9a-aca9-fe287c3b0d5d)
+![image](https://github.com/niraunjana/ODD2023---Datascience---Ex-02/assets/119395610/9485e876-aa37-4ef7-87db-c42967420cc1)
+![image](https://github.com/niraunjana/ODD2023---Datascience---Ex-02/assets/119395610/47add19f-d02e-405b-b414-39233f17e91d)
+![image](https://github.com/niraunjana/ODD2023---Datascience---Ex-02/assets/119395610/ef3bcbba-b582-45a6-bed0-7997aba57992)
