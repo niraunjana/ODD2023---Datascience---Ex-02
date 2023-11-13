@@ -111,6 +111,9 @@ height_weight.csv:
 ![image](https://github.com/niraunjana/ODD2023---Datascience---Ex-02/assets/119395610/08954965-325e-4abd-bd6e-7fb6ccf409e7)
 ![image](https://github.com/niraunjana/ODD2023---Datascience---Ex-02/assets/119395610/d3a23e9f-5e96-4671-abce-497f3fd554eb)
 ![image](https://github.com/niraunjana/ODD2023---Datascience---Ex-02/assets/119395610/45353c68-a00a-4c3e-9908-d0611a25ab66)
+![image](https://github.com/niraunjana/ODD2023---Datascience---Ex-02/assets/119395610/92ecf6a2-f3d1-4788-b1f2-22d75e153e15)
 
+### RESULT
+Hence the given set of data is read and the outliers are removed using the IQR method and Zscore method.
 
 
