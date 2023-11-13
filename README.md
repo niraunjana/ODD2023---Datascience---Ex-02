@@ -108,4 +108,5 @@ height_weight.csv:
 ![image](https://github.com/niraunjana/ODD2023---Datascience---Ex-02/assets/119395610/e86a821e-4fe0-4e9a-aca9-fe287c3b0d5d)
 ![image](https://github.com/niraunjana/ODD2023---Datascience---Ex-02/assets/119395610/9485e876-aa37-4ef7-87db-c42967420cc1)
 ![image](https://github.com/niraunjana/ODD2023---Datascience---Ex-02/assets/119395610/47add19f-d02e-405b-b414-39233f17e91d)
-![image](https://github.com/niraunjana/ODD2023---Datascience---Ex-02/assets/119395610/ef3bcbba-b582-45a6-bed0-7997aba57992)
+![image](https://github.com/niraunjana/ODD2023---Datascience---Ex-02/assets/119395610/08954965-325e-4abd-bd6e-7fb6ccf409e7)
+
